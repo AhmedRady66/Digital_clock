@@ -6,7 +6,7 @@ using namespace std;
   * Digital clock
   * hours - min - sec : variables.
   * system("cls") : is a way to clear the console screen on a Windows operating system.
-  * is a function call that suspends the execution of the current thread for a specified amount of time.
+  * Sleep() : is a function call that suspends the execution of the current thread for a specified amount of time.
   */
 int main()
 {
